@@ -1,5 +1,5 @@
 body {
-   font-family: "Roboto", sans-serif;,;
+    font-family: "Roboto", sans-serif;
 }
 header {
     display: flex;
@@ -22,7 +22,6 @@ header ul li a {
     color: #e0fcbc;
     text-decoration: none;
     text-transform: uppercase;
-
 }
 header ul li a:hover {
     text-decoration: underline;
@@ -32,7 +31,6 @@ header ul li a:hover {
     padding: 0px 300px;
 }
 .container h1 {
-
     margin-bottom: 0px;
 }
 .container .status {
@@ -45,7 +43,6 @@ header ul li a:hover {
     padding: 5px;
     text-transform: uppercase;
     color: #ececec;
-
 }
 .wrapperContent {
     margin-bottom: 50px;
@@ -89,7 +86,6 @@ header ul li a:hover {
 h3 {
     text-align: center;
     color: #74c40d;
-
 }
 .businessContent {
     display: flex;
@@ -136,7 +132,6 @@ h3 {
     text-align: center;
     padding: 10px 0px;
     color: #74c40d;
-
 }
 
 .categoryHero {
@@ -155,7 +150,6 @@ h3 {
 .categoryHero > * {
     color: white;
     text-align: center;
-
 }
 
 .categoryHero p:hover {
@@ -177,7 +171,6 @@ h3 {
 .categorySubHero > * {
     color: white;
     text-align: center;
-
 }
 .categoryContainerInfo {
     display: grid;
@@ -193,11 +186,9 @@ h3 {
 .categoryContainerInfo h2 {
     text-align: center;
     color: #74c40d;
-
 }
 .categoryContainerInfo p {
     color: rgb(128, 122, 122);
-
 }
 .categoryContainerInfo .categoryTanam {
     grid-area: categoryTanam;
@@ -211,10 +202,7 @@ h3 {
 .profileContainer .profileLeft {
     max-width: 30%;
 }
-.profileContainer .profileLeft h1,
-p {
 
-}
 .profileContainer h1 {
     color: #74c40d;
 }
@@ -230,7 +218,6 @@ p {
 .contentTitle {
     text-align: center;
     color: #74c40d;
-
 }
 .contentContainer {
     display: grid;
@@ -239,7 +226,6 @@ p {
         "hero-1 hero-1 hero-3";
     gap: 10px;
     margin: 40px;
-
 }
 
 .contentContainer .hero-1 {
@@ -318,7 +304,6 @@ p {
 }
 .contentAbout h2,
 .contentBuy h2 {
-
     color: #74c40d;
 }
 .contentAbout p,

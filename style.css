@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+   font-family: "Roboto", sans-serif;,;
 }
 header {
     display: flex;
@@ -22,7 +22,7 @@ header ul li a {
     color: #e0fcbc;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: "Roboto", sans-serif;
+
 }
 header ul li a:hover {
     text-decoration: underline;
@@ -32,7 +32,7 @@ header ul li a:hover {
     padding: 0px 300px;
 }
 .container h1 {
-    font-family: "Roboto", sans-serif;
+
     margin-bottom: 0px;
 }
 .container .status {
@@ -45,7 +45,7 @@ header ul li a:hover {
     padding: 5px;
     text-transform: uppercase;
     color: #ececec;
-    font-family: "Roboto", sans-serif;
+
 }
 .wrapperContent {
     margin-bottom: 50px;
@@ -61,7 +61,7 @@ header ul li a:hover {
     margin-left: 10px;
     margin-top: 0px;
     line-height: 1.6;
-    font-family: "Roboto", sans-serif;
+
     min-width: 450px;
 }
 
@@ -89,7 +89,7 @@ header ul li a:hover {
 h3 {
     text-align: center;
     color: #74c40d;
-    font-family: "Roboto", sans-serif;
+
 }
 .businessContent {
     display: flex;
@@ -136,7 +136,7 @@ h3 {
     text-align: center;
     padding: 10px 0px;
     color: #74c40d;
-    font-family: "Roboto", sans-serif;
+
 }
 
 .categoryHero {
@@ -155,7 +155,7 @@ h3 {
 .categoryHero > * {
     color: white;
     text-align: center;
-    font-family: "Roboto", sans-serif;
+
 }
 
 .categoryHero p:hover {
@@ -177,7 +177,7 @@ h3 {
 .categorySubHero > * {
     color: white;
     text-align: center;
-    font-family: "Roboto", sans-serif;
+
 }
 .categoryContainerInfo {
     display: grid;
@@ -193,11 +193,11 @@ h3 {
 .categoryContainerInfo h2 {
     text-align: center;
     color: #74c40d;
-    font-family: "Roboto", sans-serif;
+
 }
 .categoryContainerInfo p {
     color: rgb(128, 122, 122);
-    font-family: "Roboto", sans-serif;
+
 }
 .categoryContainerInfo .categoryTanam {
     grid-area: categoryTanam;
@@ -213,7 +213,7 @@ h3 {
 }
 .profileContainer .profileLeft h1,
 p {
-    font-family: "Roboto", sans-serif;
+
 }
 .profileContainer h1 {
     color: #74c40d;
@@ -230,7 +230,7 @@ p {
 .contentTitle {
     text-align: center;
     color: #74c40d;
-    font-family: "Roboto", sans-serif;
+
 }
 .contentContainer {
     display: grid;
@@ -239,7 +239,7 @@ p {
         "hero-1 hero-1 hero-3";
     gap: 10px;
     margin: 40px;
-    font-family: "Roboto", sans-serif;
+
 }
 
 .contentContainer .hero-1 {
@@ -318,7 +318,7 @@ p {
 }
 .contentAbout h2,
 .contentBuy h2 {
-    font-family: "Roboto", sans-serif;
+
     color: #74c40d;
 }
 .contentAbout p,
@@ -354,7 +354,7 @@ p {
     grid-template-areas:
         "left right"
         "left right";
-    font-family: "Roboto", sans-serif;
+
     align-items: center;
     column-gap: 50px;
     padding: 0px 50px;
@@ -393,7 +393,7 @@ p {
 .featuredContainer2 h2 {
     grid-area: title;
     text-align: center;
-    font-family: "Roboto", sans-serif;
+
     color: #74c40d;
 }
 .featuredContainer2 .featuredContent {
@@ -422,7 +422,7 @@ p {
 .farmHeader {
     margin-top: 10px;
     background-size: cover;
-    font-family: "Roboto", sans-serif;
+
     background-position: center;
     min-height: 500px;
     text-align: center;
